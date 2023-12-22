@@ -26,7 +26,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://netflix-gpt-git-main-ajays-projects-6d03f173.vercel.app/"
+              href="https://netflix-gpt-brown.vercel.app/"
               target="blank"
               className="btn"
             >

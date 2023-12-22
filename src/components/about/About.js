@@ -23,19 +23,21 @@ const About = () => {
               <small>2+ Years Working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <AiOutlineFundProjectionScreen className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
-            </article>
+              <small>5+ Completed</small>
+            </article> */}
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi
-            non quis exercitationem culpa nesciunt nihil aut nostrum explicabo
-            reprehenderit optio amet ab temporibus asperiores quasi cupiditate.
-            Voluptatum ducimus voluptates voluptas?
+            Currently, I am working as a software engineer at TCS having a role
+            of ReactJs Frontend developer. My strengths are Willingness to
+            learn, Dedicated towards my work, Always ready for a new challenge
+            with a positive attitude.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
