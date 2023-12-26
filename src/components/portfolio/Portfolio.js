@@ -36,7 +36,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={youtube} alt="netflix" />
+            <img src={youtube} alt="Youtube" />
           </div>
           <h3>Youtube-Clone</h3>
           <div className="portfolio__item-cta">
@@ -48,7 +48,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://youtube-clone-74v4kpknq-ajays-projects-6d03f173.vercel.app/"
+              href="https://youtube-clone-puce-delta.vercel.app/"
               target="blank"
               className="btn"
             >
@@ -58,7 +58,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={weather} alt="netflix" />
+            <img src={weather} alt="weather" />
           </div>
           <h3>Weather App</h3>
           <div className="portfolio__item-cta">
@@ -80,7 +80,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={tictactoe} alt="netflix" />
+            <img src={tictactoe} alt="TicTacToe" />
           </div>
           <h3>Tic-Tac-Toe Game</h3>
           <div className="portfolio__item-cta">
@@ -102,7 +102,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={passwordGen} alt="netflix" />
+            <img src={passwordGen} alt="PasswordGen" />
           </div>
           <h3>Password Generator</h3>
           <div className="portfolio__item-cta">
