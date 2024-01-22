@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/profile.jpg";
+import ME2 from "../../assets/techie.avif";
 import { FaAward } from "react-icons/fa";
 import { AiOutlineFundProjectionScreen } from "react-icons/ai";
 const About = () => {
@@ -12,7 +12,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="me"></img>
+            <img src={ME2} alt="me"></img>
           </div>
         </div>
         <div className="about__content">
@@ -20,7 +20,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>2 Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             {/* <article className="about__card">
